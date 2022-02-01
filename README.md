@@ -6,7 +6,7 @@ Requires PHP: 7.2
 Stable tag: 1.0.0  
 License: [MIT](LICENSE)  
 Tags: textruposting, textru  
-Contributors: textru
+Contributors: textru  
 
 Плагин для взаимодействия WP-сайта с биржей контента text.ru
 
