@@ -32,8 +32,7 @@ Contributors: textru
 wp_textru_orders
 для хранения временных данных.
 Её структуру можно посмотреть в файле
-text.ru.posting.php
-.
+text.ru.posting.php.
 
 Также добавляются три опции:
 - textru_token: токен пользователя, полученный со страницы [https://text.ru/api-check]();
