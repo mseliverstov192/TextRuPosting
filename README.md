@@ -8,7 +8,7 @@ License: [MIT](LICENSE)
 Tags: textruposting, textru  
 Contributors: textru  
 
-Плагин для взаимодействия WP-сайта с биржей контента text.ru
+Плагин для взаимодействия WP-сайта с биржей контента text.ru 
 
 ## Description
 При работе плагин взаимодействует посредством открытого API с программной платформой [text.ru](https://text.ru).
